@@ -1,7 +1,7 @@
 # 🌟 Architecting the Future: AI & Full-Stack Systems
 
 <div align="center">
-    
+    
 # `Mohamed Dilshad Naleem`
 ### **⚡ AI/ML Architect | Full-Stack Engineering Lead | Data-Driven Innovator ⚡**
 
@@ -97,11 +97,11 @@ An AI platform focused on proactive mental health support by analyzing digital b
 
 | **📊 General Statistics** | **🥇 Top Languages** | **🔥 Contribution Streak** |
 | :---: | :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohrashard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/mohrashard) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohrashard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/mohrashard) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohrashard&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/mohrashard) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshadNaleem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DilshadNaleem) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshadNaleem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DilshadNaleem) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilshadNaleem&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/DilshadNaleem) |
 
 ### **✨ Achievements & Trophies**
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohrashard&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DilshadNaleem&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,10 +110,10 @@ An AI platform focused on proactive mental health support by analyzing digital b
 ## 🚀 Current Initiatives & Learning Path
 
 * **Focus Areas:**
-    * Developing **Generative AI** and **LLM** integration strategies.
-    * Optimizing CI/CD for **Microservices deployment** on AWS/Azure.
-    * Exploring **Advanced Deep Learning Architectures** (e.g., Transformers, GANs).
-    * Building a **Cloud-Native, Serverless** application backbone.
+    * Developing **Generative AI** and **LLM** integration strategies.
+    * Optimizing CI/CD for **Microservices deployment** on AWS/Azure.
+    * Exploring **Advanced Deep Learning Architectures** (e.g., Transformers, GANs).
+    * Building a **Cloud-Native, Serverless** application backbone.
 * **Learning Goal:** Achieve a professional-level certification in **Cloud Architecture** (e.g., AWS Certified Solutions Architect).
 
 ---
@@ -128,13 +128,13 @@ An AI platform focused on proactive mental health support by analyzing digital b
 
 | **Channel** | **Contact Information** |
 | :---: | :--- |
-| **Email** | **mohrashard@gmail.com** (Best for Professional Inquiries) |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/mohamedrashard/) (Best for Networking) |
-| **Portfolio** | [View My Work](https://mohamedrashard.vercel.app/) (Best for Project Demos) |
+| **Email** | **dilshadnaleem13@gmail.com** (Best for Professional Inquiries - *Updated from previous section*) |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/dilshad-naleem-26a40a310/) (Best for Networking) |
+| **Portfolio** | [View My Work](https://dilshadnaleemportfolio.vercel.app/) (Best for Project Demos) |
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohrashard&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/mohrashard)
-[![Star this repo!](https://img.shields.io/badge/Star%20Me-40%2B%20Stars!-FFD700?style=flat-square&logo=github&logoColor=white)](https://github.com/mohrashard)
+[![Profile Views](https://komarev.com/ghpvc/?username=DilshadNaleem&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/DilshadNaleem)
+[![Star this repo!](https://img.shields.io/badge/Star%20Me-40%2B%20Stars!-FFD700?style=flat-square&logo=github&logoColor=white)](https://github.com/DilshadNaleem)
 
 </div>
 
-**© 2025 Mohamed Rashard Rizmi | Building the Future, One Commit at a Time**
+**© 2025 Mohamed Dilshad Naleem | Building the Future, One Commit at a Time**
