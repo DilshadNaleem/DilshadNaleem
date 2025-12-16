@@ -1,4 +1,4 @@
-# 🌟 Mohammed Dilshad Naleem
+# ⚡ Mohammed Dilshad Naleem
 
 <div align="center">
     
