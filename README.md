@@ -40,19 +40,14 @@
 
 ## 💎 Featured AI & Full-Stack Solutions
 
-### 🩺 **LiverLens: Precision Health AI Platform**
-A flagship project demonstrating the fusion of ML and full-stack engineering for clinical decision support.
+### 🩺 **sample**
+Sample H!
 
 * **Impact:** Deployed a highly optimized **XGBoost ML model** for industry-leading liver disease prediction accuracy.
 * **Architecture:** Implemented a **Role-Based Microservices** architecture using **React** (frontend) and **Flask** (API) for personalized clinical dashboards and automated reporting.
 * **Core Tech:** `Python`, `XGBoost`, `Flask`, `React`, `Advanced Analytics`
 
-### 🧠 **Mentora: Digital Wellness Predictive Engine**
-An AI platform focused on proactive mental health support by analyzing digital behavior.
 
-* **Innovation:** Features a proprietary **AI-Powered Assessment Engine** to analyze and score user wellness with actionable recommendations.
-* **Security:** Designed with a **Privacy-First Architecture** and robust data anonymization techniques.
-* **Core Tech:** `Flask`, `Machine Learning`, `Data Analytics`, `Behavioral Science Integration`
 
 ---
 
