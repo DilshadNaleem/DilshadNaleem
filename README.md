@@ -5,7 +5,7 @@
 
 ### **⚡ AI/ML Architect | Full-Stack Engineering Lead | Data-Driven Innovator ⚡**
 
-[![Dynamic Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Transforming+Complex+Problems+into+Solutions.;Building+Scalable+AI+Applications.;Specializing+in+Predictive+HealthTech.;Full-Stack+Mastery+with+React+%26+Flask)](https://git.io/typing-svg)
+[![Dynamic Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=false&width=600&lines=Transforming+Complex+Problems+into+Solutions.;Building+Scalable+AI+Applications.;Specializing+in+Predictive+Model.;Full-Stack+Mastery+with+React+%26+Springboot)](https://git.io/typing-svg)
 
 </div>
 
