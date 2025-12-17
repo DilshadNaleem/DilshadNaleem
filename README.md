@@ -169,4 +169,6 @@
 
 </div>
 
-**© 2025 Mohamed Dilshad Naleem | Building the Future, One Commit at a Time**
+<div align="center">
+  <strong>© 2025 Mohamed Dilshad Naleem | Building the Future, One Commit at a Time</strong>
+</div>
