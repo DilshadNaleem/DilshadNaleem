@@ -32,41 +32,63 @@
 
 | **Area** | **Keywords / Impact** | **Value Delivered** |
 | :--- | :--- | :--- |
-| **Artificial Intelligence** | `LLM Integration`, `Responsible AI`, `XGBoost`, `TensorFlow`, `Predictive Modeling` | Architecting and deploying **high-accuracy ML models** into production environments. |
-| **Full-Stack Architecture** | `Microservices`, `RESTful APIs`, `React`, `Flask`, `ASP.NET`, `Real-time Processing` | Designing and building **end-to-end, scalable, and resilient digital platforms**. |
-| **Data Engineering** | `ETL Pipelines`, `Big Data Analytics`, `Polyglot Persistence (SQL/NoSQL)` | Establishing **robust data pipelines** for Business Intelligence and data-driven decision-making. |
+| **Artificial Intelligence** | `LLM Integration`, `Responsible AI`, `XGBoost`, `TensorFlow`, `Predictive Modeling`, `Biometric Locks` , `CNN Models` , `Random Forest` | Architecting and deploying **high-accuracy ML models** into production environments. |
+| **Full-Stack Architecture** | `Microservices`, `RESTful APIs`, `React`, `Flask`, `ASP.NET`, `Springboot` `Real-time Processing` | Designing and building **end-to-end, scalable, and resilient digital platforms**. |
+| **Databases** | `MySQL`, `Postegres`, `MongoDB` | Establishing **robust data pipelines** for Business Intelligence and data-driven decision-making. |
 
 ---
 
 ## 💎 Featured AI & Full-Stack Solutions
 
-### 🩺 **sample**
-Sample H!
+### 🩺 **Alcura AI in Healthcare**
+Fullstack Webapplication with Springboot , Flask, HTML, CSS, Javascript
 
-* **Impact:** Deployed a highly optimized **XGBoost ML model** for industry-leading liver disease prediction accuracy.
-* **Architecture:** Implemented a **Role-Based Microservices** architecture using **React** (frontend) and **Flask** (API) for personalized clinical dashboards and automated reporting.
-* **Core Tech:** `Python`, `XGBoost`, `Flask`, `React`, `Advanced Analytics`
-
-
+* **Impact:** Deployed a highly optimized **Random Forest ML model** for industry-leading disease prediction based on Text and Images.
+* Deployed biometric Lock (Facelock) to the website with python CV2, face recognition and Flask with libs, xml files for extra security with conditions.
+* **Architecture:** Implemented a **Role-Based Microservices** architecture using **HTMl, CSS, JS** (frontend), **Springboot** (Base API Integration) and **Flask** (Model API)  for personalized clinical dashboards and automated reporting, including 2F verification, Reset Password, Biometric Lock, GPT Integration, Analysis, Model Management (Train, Analys, CRUD for images and information).
+* **Core Tech:** `Python`, `XGBoost`, `Flask`, `Java-Springboot`, `Advanced Analytics`, `Thymealf`, `Random Forest`, `Junit`, `Mocktio`.
 
 ---
+
+
+### 🔬 **HepatoPath - Cirrhosis Prediction**
+Fullstack Webapplication with Springboot , Flask, HTML, CSS, Javascript
+
+* **Impact:** Deployed a highly optimized **Random Forest ML model** for industry-leading disease prediction based on Text and Images.
+* Deployed biometric Lock (Facelock) to the website with python CV2, face recognition and Flask with libs, xml files for extra security with conditions.
+* **Architecture:** Implemented a **Role-Based Microservices** architecture using **HTMl, CSS, JS** (frontend), **Springboot** (Base API Integration) and **Flask** (Model API)  for personalized clinical dashboards and automated reporting, including 2F verification, Reset Password, Biometric Lock, GPT Integration, Analysis, Model Management (Train, Analys, CRUD for images and information).
+* **Core Tech:** `Python`, `XGBoost`, `Flask`, `Java-Springboot`, `Advanced Analytics`, `Thymealf`, `Random Forest`, `Junit`, `Mocktio`.
+
+---
+
+### 🚖 **MegaCityCab - Riding Management**
+Fullstack WebApplication with Java, JavaServlet, JSP
+
+* **Impact:** Deployed a highly optimized **Full-stack WebApplication** for industry-leading cab rental company.
+* Calculate Fine based on Late vehicle handove time.
+* **Architecture:** Implemented a **Role-Based Microservices** architecture using **HTMl, CSS, JS, JSP** (frontend), **Java, JavaServlet** (Base API Integration)   for personalized dashboards and automated reporting, including 2F verification, Reset Password.
+* **Core Tech:** `Java`, `JSP`, `Junit`.
+
+---
+
+
 
 ## 🛠️ Technical Armory (The Stack)
 
 <div align="center">
 
 ### **Languages & Ecosystems**
-![Python](https://img.shields.io/badge/Python-Master-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Pro-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Pro-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Skilled-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Proficient-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=java&logoColor=white)
 
 ### **Frontend & Backend Frameworks**
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-Master-000000?style=flat-square&logo=flask&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Advanced-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Proficient-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot-Proficient-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Professional-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### **AI/ML & Data Technologies**
