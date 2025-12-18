@@ -123,7 +123,7 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshadNaleem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
   </a>
 </div>
-*Note: These cards show statistics from public repositories by default. To customize them further, you can use options like `&hide` or `&show` parameters[citation:2].*
+
 
 ### **🔥 Contribution Streak**
 <div align="center">
