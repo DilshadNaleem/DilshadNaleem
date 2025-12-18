@@ -124,18 +124,18 @@
   </a>
 </div>
 
+---
+
+
 
 ### **🔥 Contribution Streak**
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshadNaleem&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-  </a>
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DilshadNaleem&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
-### **✨ Achievements & Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DilshadNaleem&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
+
+
+
 
 ---
 
