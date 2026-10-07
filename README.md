@@ -2,18 +2,20 @@
 
 <div align="center">
 
-### AI/ML Architect • Full-Stack Engineering Lead • Software Innovator
+### AI/ML Architect • Patent Software Engineer • Prior-Art Researcher • Full-Stack Engineering Lead
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Scalable+AI-Powered+Applications;Engineering+Production-Ready+Software+Architectures;Machine+Learning+%7C+Cloud+%7C+Microservices;Java+%7C+Python+%7C+C%23+%7C+JavaScript;Turning+Complex+Problems+into+Engineering+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Architect+%26+Software+Innovator;Patent+Research+%7C+Prior-Art+Analysis;Building+Patent-Oriented+Software+Solutions;Engineering+Production-Ready+Architectures;Machine+Learning+%7C+Cloud+%7C+Microservices;Java+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Turning+Research+into+Engineering+Solutions" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/dilshad-naleem-26a40a310/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://dilshadnaleemportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="mailto:dilshadnaleem13@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -22,28 +24,55 @@
 
 <img src="https://komarev.com/ghpvc/?username=DilshadNaleem&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PATENT-RESEARCH-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRIOR--ART-ANALYSIS-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PATENT-SOFTWARE-ENGINEERING-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-ARCHITECTURE-FF4081?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 name: Mohammed Dilshad Naleem
-role: AI/ML Architect & Full-Stack Engineer
 
-focus:
+roles:
+  - AI/ML Architect
+  - Patent Software Engineer
+  - Prior-Art Researcher
+  - Full-Stack Engineer
+  - Software Architecture Researcher
+
+research_focus:
+  - Patent Research
+  - Prior-Art Analysis
+  - Patent-Oriented Software Development
+  - Technical Invention Analysis
+  - AI Research
+  - Machine Learning Research
+  - Experimental Software Engineering
+
+engineering_focus:
   - Artificial Intelligence
   - Machine Learning
   - Enterprise Software Architecture
   - Microservices
   - Cloud Engineering
   - Scalable Backend Systems
+  - Mobile Applications
+  - API Architecture
+  - Software Quality Assurance
 
 languages:
   - Java
   - Python
   - C#
+  - C
+  - C++
   - JavaScript
   - TypeScript
   - PHP
@@ -53,6 +82,22 @@ backend:
   - ASP.NET
   - Flask
   - Node.js
+  - Hibernate
+  - JPA
+
+frontend_mobile:
+  - React
+  - React Native
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+
+apis:
+  - REST
+  - GraphQL
+  - Microservices APIs
+  - AI / ML APIs
 
 data:
   - PostgreSQL
@@ -60,20 +105,94 @@ data:
   - MongoDB
   - Redis
 
+quality_assurance:
+  - Manual QA
+  - API Testing
+  - Unit Testing
+  - Integration Testing
+  - JUnit
+  - Mockito
+  - Postman
+
 cloud_devops:
   - AWS
   - Docker
   - Git
+  - GitHub
   - CI/CD
+  - Linux
 
-currently_learning:
+currently_researching:
   - Generative AI
   - LLM Architecture
   - Distributed Systems
   - Advanced Deep Learning
+  - Patent-Aware Software Engineering
+  - AI-Driven Invention Development
 ```
 
-> **I bridge machine intelligence and production software engineering — building systems designed to be scalable, maintainable and useful in real-world environments.**
+> **I bridge patent research, machine intelligence and production software engineering — transforming technical research and invention concepts into scalable, testable and production-ready software systems.**
+
+---
+
+# 🧠 Patent Research & Innovation Engineering
+
+<div align="center">
+
+### 🔬 Research → Prior Art → Architecture → Prototype → Software → Validation
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔎 Patent Research
+
+- Prior-Art Research
+- Technical Literature Analysis
+- Patent Landscape Analysis
+- Technology Comparison
+- Feature Differentiation
+- Novelty-Oriented Research
+- Invention Documentation
+- Technical Evidence Analysis
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💡 Patent Software Engineering
+
+- Research Prototype Development
+- Patent-Oriented Architecture
+- Experimental Algorithms
+- Sensor / AI Software
+- Proof-of-Concept Development
+- Data Collection Pipelines
+- ML Experimentation
+- Technical Validation
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Engineering Validation
+
+- Architecture Evaluation
+- API Testing
+- Manual QA
+- Automated Unit Testing
+- Experiment Validation
+- Model Evaluation
+- Performance Testing
+- Technical Documentation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -81,6 +200,7 @@ currently_learning:
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🤖 Artificial Intelligence
@@ -89,10 +209,12 @@ currently_learning:
 - Random Forest
 - XGBoost
 - TensorFlow
+- PyTorch
 - Computer Vision
 - CNN Models
 - LLM Integration
 - AI API Architecture
+- Production ML
 - Responsible AI
 
 </td>
@@ -107,15 +229,17 @@ currently_learning:
 - Spring Boot
 - ASP.NET
 - Flask
+- Hibernate / JPA
 - Role-Based Systems
 - Real-Time Processing
 - Enterprise Applications
+- Distributed Systems
 
 </td>
 
 <td width="33%" valign="top">
 
-### ☁️ Cloud & Data
+### ☁️ Cloud, Data & QA
 
 - AWS
 - Docker
@@ -125,9 +249,13 @@ currently_learning:
 - MongoDB
 - Redis
 - Data Pipelines
-- Analytics
+- Postman
+- JUnit
+- Mockito
+- Manual QA
 
 </td>
+
 </tr>
 </table>
 
@@ -149,33 +277,50 @@ currently_learning:
 - Added password recovery and multi-stage verification.
 - Developed model-management functionality.
 - Added analytics and reporting features.
+- Implemented API and application testing strategies.
 
 ### Architecture
 
 ```text
-Client
-   │
-   ▼
-HTML / CSS / JavaScript
-   │
-   ▼
-Spring Boot API
-   │
-   ├──────────────► Authentication / Business Services
-   │
-   ▼
-Flask ML API
-   │
-   ▼
-Machine Learning Models
-   │
-   ▼
-Prediction + Analytics
+                         ┌──────────────────┐
+                         │      Client      │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │ HTML / CSS / JavaScript│
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌───────────────────────┐
+                    │   Spring Boot API     │
+                    └───────────┬───────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+       Authentication      Business Logic      Hibernate/JPA
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                │
+                                ▼
+                      ┌──────────────────┐
+                      │   Flask ML API   │
+                      └────────┬─────────┘
+                               │
+                               ▼
+                  ┌────────────────────────┐
+                  │ Machine Learning Models│
+                  └────────────┬───────────┘
+                               │
+                               ▼
+                     Prediction + Analytics
 ```
 
 **Stack**
 
-`Java` `Spring Boot` `Python` `Flask` `Random Forest` `XGBoost` `OpenCV` `JUnit` `Mockito`
+`Java` `Spring Boot` `Hibernate` `JPA` `Python` `Flask`  
+`Random Forest` `XGBoost` `OpenCV` `REST` `Postman` `JUnit` `Mockito`
 
 ---
 
@@ -192,10 +337,12 @@ Prediction + Analytics
 - Spring Boot ↔ Flask integration.
 - AI model management.
 - Analytics and reporting.
+- REST API integration and validation.
 
 **Stack**
 
-`Python` `Java` `Spring Boot` `Flask` `XGBoost` `Random Forest` `OpenCV`
+`Python` `Java` `Spring Boot` `Flask` `XGBoost`  
+`Random Forest` `OpenCV` `REST` `JUnit` `Postman`
 
 ---
 
@@ -210,6 +357,8 @@ Prediction + Analytics
 - Late vehicle handover fine calculation.
 - Authentication and password recovery.
 - Administrative dashboards.
+- Database-driven enterprise workflows.
+- Unit and manual testing.
 
 **Stack**
 
@@ -240,27 +389,116 @@ Prediction + Analytics
 
 <div align="center">
 
-### Programming Languages
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,php&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,js,ts,php&perline=8" />
 
-### Backend & Frameworks
+<br/>
+
+## ⚙️ Backend & Frameworks
 
 <img src="https://skillicons.dev/icons?i=spring,dotnet,flask,nodejs,react&perline=5" />
 
-### Databases & Data
+<br/>
+
+<img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-Persistence-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+<br/><br/>
+
+## 📱 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts&perline=5" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<br/><br/>
+
+## 🗄️ Databases & Data
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4" />
 
-### Cloud & DevOps
+<br/>
+
+## ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=5" />
 
-### AI / ML
+<br/>
+
+## 🤖 Artificial Intelligence / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
 
+<br/>
+
+## 🧪 Testing & Quality Assurance
+
+<img src="https://skillicons.dev/icons?i=postman&perline=1" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/JUnit-Testing-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-Unit_Testing-78A641?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual_QA-Quality_Assurance-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-Validation-7B61FF?style=for-the-badge"/>
+
 </div>
+
+---
+
+# 🔬 Research + Engineering Workflow
+
+```text
+                     RESEARCH
+                        │
+                        ▼
+              ┌──────────────────┐
+              │   Prior-Art      │
+              │    Analysis      │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Technology Gap   │
+              │    Analysis      │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Patent-Oriented  │
+              │ System Design    │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Prototype / POC  │
+              └────────┬─────────┘
+                       │
+              ┌────────┴─────────┐
+              │                  │
+              ▼                  ▼
+         AI / ML             Software
+        Research            Engineering
+              │                  │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ QA + Validation  │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Production-Ready │
+              │     System       │
+              └──────────────────┘
+```
 
 ---
 
@@ -276,11 +514,11 @@ Prediction + Analytics
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=DilshadNaleem&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=DilshadNaleem&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
@@ -290,11 +528,24 @@ Prediction + Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DilshadNaleem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img 
+src="https://github-profile-trophy.vercel.app/?username=DilshadNaleem&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2"
+alt="Mohammed Dilshad Naleem GitHub Trophies"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/DilshadNaleem?label=Followers&style=for-the-badge&logo=github&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/DilshadNaleem?affiliations=OWNER&style=for-the-badge&logo=github&color=7B61FF"/>
 
 </div>
 
 ---
+
 
 # 🐍 Contribution Snake
 
@@ -319,36 +570,46 @@ Prediction + Analytics
 
 ---
 
-# 📈 Development Activity
+# 📈 Development & Research Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DilshadNaleem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+### Software Engineering • AI Research • Patent Research • Prior-Art Analysis • Architecture
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DilshadNaleem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Software%20Engineering%20%7C%20AI%20%7C%20Patent%20Research%20Activity" />
 
 </div>
 
 ---
 
-# 🧠 What I'm Currently Building & Learning
+# 🧠 What I'm Currently Building & Researching
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🚀 Engineering
+### 🚀 Software Engineering
 
 - Enterprise microservice architectures
 - High-performance backend APIs
+- REST & GraphQL APIs
 - Distributed applications
 - Cloud-native deployments
 - CI/CD automation
 - Scalable database architectures
+- React Native applications
+- Hibernate / JPA persistence
+- Enterprise ASP.NET systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & Patent Research
 
 - Generative AI
 - LLM integrations
@@ -356,38 +617,99 @@ Prediction + Analytics
 - Advanced deep learning
 - Computer vision
 - Production ML pipelines
+- Patent-oriented software research
+- Prior-art analysis
+- Technical invention research
+- Experimental AI architectures
 
 </td>
+
 </tr>
+
 </table>
+
+---
+
+# 🧪 Software Quality & Validation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MANUAL-QA-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUNIT-UNIT_TESTING-25A162?style=for-the-badge&logo=junit5"/>
+<img src="https://img.shields.io/badge/MOCKITO-MOCK_TESTING-78A641?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POSTMAN-API_TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTEGRATION-TESTING-7B61FF?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+```text
+Development
+    │
+    ├── Unit Testing ─────────► JUnit
+    │
+    ├── Mock Testing ─────────► Mockito
+    │
+    ├── API Testing ──────────► Postman
+    │
+    ├── Manual QA
+    │
+    ├── Integration Testing
+    │
+    └── Validation
+            │
+            ▼
+       Production Ready
+```
 
 ---
 
 # 🎯 Current Roadmap
 
 ```text
+Patent Research
+      │
+      ├── Prior-Art Analysis
+      ├── Technology Research
+      ├── Technical Gap Analysis
+      └── Patent-Oriented Engineering
+                  │
+                  ▼
 AI / ML
-  │
-  ├── Generative AI
-  ├── LLM Architecture
-  ├── Deep Learning
-  └── Production ML
-         │
-         ▼
+      │
+      ├── Generative AI
+      ├── LLM Architecture
+      ├── Deep Learning
+      └── Production ML
+                  │
+                  ▼
 Software Architecture
-  │
-  ├── Spring Boot
-  ├── ASP.NET
-  ├── Microservices
-  └── Distributed Systems
-         │
-         ▼
+      │
+      ├── Spring Boot
+      ├── ASP.NET
+      ├── Hibernate / JPA
+      ├── REST / GraphQL
+      ├── React Native
+      ├── Microservices
+      └── Distributed Systems
+                  │
+                  ▼
 Cloud Engineering
-  │
-  ├── AWS
-  ├── Docker
-  ├── CI/CD
-  └── Serverless
+      │
+      ├── AWS
+      ├── Docker
+      ├── CI/CD
+      └── Cloud Architecture
+                  │
+                  ▼
+Quality Engineering
+      │
+      ├── Manual QA
+      ├── JUnit
+      ├── Mockito
+      ├── Postman
+      └── Integration Testing
 ```
 
 ---
@@ -396,15 +718,23 @@ Cloud Engineering
 
 <div align="center">
 
-### *"Code is poetry. Architecture is art. Innovation is the masterpiece."*
+### *"Research discovers the possibility. Engineering turns it into reality."*
 
 <br/>
 
 I believe strong engineering is not simply about making software **work**.
 
-It is about building systems that are:
+It is about combining:
 
-**Scalable • Secure • Maintainable • Testable • Intelligent • Production-Ready**
+### 🔬 Research  
+### 🧠 Intelligence  
+### ⚙️ Architecture  
+### 🧪 Validation  
+### 🚀 Production Engineering
+
+to build systems that are:
+
+**Scalable • Secure • Maintainable • Testable • Intelligent • Innovative • Production-Ready**
 
 </div>
 
@@ -414,7 +744,7 @@ It is about building systems that are:
 
 <div align="center">
 
-### Interested in AI, enterprise software, full-stack engineering or scalable architecture?
+### AI • Patent Research • Prior-Art Analysis • Software Architecture • Full Stack • Cloud
 
 <br/>
 
@@ -436,12 +766,25 @@ It is about building systems that are:
 
 <br/><br/>
 
-**Mohammed Dilshad Naleem**
+## Mohammed Dilshad Naleem
 
-`AI • Software Architecture • Full Stack • Cloud • Machine Learning`
+`AI/ML • Patent Research • Prior-Art Analysis • Patent Software • Architecture • Full Stack • Cloud`
 
 <br/>
 
-**Building the future, one commit at a time. ⚡**
+### ⚡ Building the future, one experiment, architecture and commit at a time.
+
+</div>
+
+---
+
+<!-- ====================== BLUE WATER WAVE FOOTER ====================== -->
+
+<div align="center">
+
+<img 
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,30:003B73,60:0074D9,100:00D9FF&height=160&section=footer&animation=twinkling"
+/>
 
 </div>
