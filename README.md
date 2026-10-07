@@ -524,27 +524,38 @@ currently_researching:
 
 ---
 
-# 🏆 GitHub Trophy Cabinet
+# 🏆 GitHub Achievement Cabinet
 
 <div align="center">
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=DilshadNaleem&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2"
-alt="Mohammed Dilshad Naleem GitHub Trophies"
-/>
-
-</div>
+### ⚡ Developer Progress • Open Source • Engineering Activity
 
 <br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilshadNaleem&theme=github_dark" width="100%"/>
 
-<img src="https://img.shields.io/github/followers/DilshadNaleem?label=Followers&style=for-the-badge&logo=github&color=00D9FF"/>
+<br/><br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilshadNaleem&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilshadNaleem&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilshadNaleem&theme=github_dark&utcOffset=5.5"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/DilshadNaleem?label=FOLLOWERS&style=for-the-badge&logo=github&color=00D9FF"/>
 <img src="https://img.shields.io/github/stars/DilshadNaleem?affiliations=OWNER&style=for-the-badge&logo=github&color=7B61FF"/>
+<img src="https://img.shields.io/github/last-commit/DilshadNaleem/DilshadNaleem?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=00C853"/>
+
+<br/><br/>
+
+### 🎯 GitHub Achievement Targets
+
+<img src="https://img.shields.io/badge/PULL%20SHARK-LEVEL%203-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-IN%20PROGRESS-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GALAXY%20BRAIN-TARGET-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-00C853?style=for-the-badge"/>
 
 </div>
-
----
 
 
 # 🐍 Contribution Snake
@@ -570,17 +581,6 @@ alt="Mohammed Dilshad Naleem GitHub Trophies"
 
 ---
 
-# 📈 Development & Research Activity
-
-<div align="center">
-
-### Software Engineering • AI Research • Patent Research • Prior-Art Analysis • Architecture
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DilshadNaleem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Software%20Engineering%20%7C%20AI%20%7C%20Patent%20Research%20Activity" />
-
-</div>
 
 ---
 
