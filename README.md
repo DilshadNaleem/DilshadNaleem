@@ -1,10 +1,11 @@
+
 # ⚡ Mohammed Dilshad Naleem
 
 <div align="center">
 
 ### AI/ML Architect • Patent Software Engineer • Prior-Art Researcher • Full-Stack Engineering Lead
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Architect+%26+Software+Innovator;Patent+Research+%7C+Prior-Art+Analysis;Building+Patent-Oriented+Software+Solutions;Engineering+Production-Ready+Architectures;Machine+Learning+%7C+Cloud+%7C+Microservices;Java+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Turning+Research+into+Engineering+Solutions" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Architect+%26+Software+Innovator;Patent+Research+%7C+Prior-Art+Analysis;Building+Patent-Oriented+Software+Solutions;Engineering+Production-Ready+Architectures;Machine+Learning+%7C+Cloud+%7C+Microservices;Java+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Turning+Research+into+Engineering+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +23,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DilshadNaleem&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<a href="https://github.com/DilshadNaleem">
+  <img
+    src="https://komarev.com/ghpvc/?username=DilshadNaleem&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
+    alt="DilshadNaleem Profile Views"
+  />
+</a>
 
 <br/><br/>
 
@@ -32,6 +38,7 @@
 <img src="https://img.shields.io/badge/AI%2FML-ARCHITECTURE-FF4081?style=for-the-badge"/>
 
 </div>
+
 
 ---
 
