@@ -34,7 +34,7 @@
 
 <img src="https://img.shields.io/badge/PATENT-RESEARCH-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PRIOR--ART-ANALYSIS-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PATENT-SOFTWARE-ENGINEERING-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PATENT-Software%20Engineering-00C853?style=for-the-badge" alt="Patent Software Engineering"/>
 <img src="https://img.shields.io/badge/AI%2FML-ARCHITECTURE-FF4081?style=for-the-badge"/>
 
 </div>
